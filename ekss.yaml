@@ -1,8 +1,8 @@
-apiVersion: eksctlll.io/v1alpha5
+apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: kavya 
+  name: cluster1
   region: us-east-1
 
 managedNodeGroups:
