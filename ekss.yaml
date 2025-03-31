@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 metadata:
   name: kavya
-  region: us-east-1
+  region: us-east-2
 
 managedNodeGroups:
   - name: kavya
